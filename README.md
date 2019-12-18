@@ -1,1 +1,2 @@
-In this project it will predict the accident severity. Here all the classification algoritjms is used and compared which algorithm is giving the best accuracy and precision, f1 score. And also the data is visualized for each column and it will show the graph of each column
+In this project it will predict the accident severity. Here all the classification algorithms is used and compared which algorithm is giving the best accuracy and precision, f1 score. And also the data is visualized for each column and it will show the graph of each column
+It has very huge dataset of 17lakhs rows and 42 columns. So the data visualization after using algorithm is difficult. So I have used iris function for just to know how the line is seperated in the graph.

@@ -1,1 +1,1 @@
-"# Accident-Predictions-" 
+In this project it will predict the accident severity. Here all the classification algoritjms is used and compared which algorithm is giving the best accuracy and precision, f1 score. And also the data is visualized for each column and it will show the graph of each column
